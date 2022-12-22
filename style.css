@@ -1,0 +1,17 @@
+.content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.week {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 15ch 15ch 15ch 15ch 15ch 15ch 15ch;
+      grid-template-columns: 15ch 15ch 15ch 15ch 15ch 15ch 15ch;
+      grid-template-areas: "a b c d e f g";
+}
+/*# sourceMappingURL=style.css.map */

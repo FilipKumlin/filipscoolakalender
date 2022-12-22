@@ -1,0 +1,5 @@
+.week{
+    display: grid;
+    grid-template-columns: 15ch 15ch 15ch 15ch 15ch 15ch 15ch;
+    grid-template-areas: "a b c d e f g";
+}

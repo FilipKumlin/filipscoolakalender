@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,QAAQ,CAAA;EAAC,OAAO,EAAE,IAAI;EACtB,WAAW,EAAE,UAAU;CAAE;;AEDzB,AAAA,KAAK,CAAA;EACD,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,kCAAkC;EACzD,mBAAmB,EAAE,eAAe;CACvC",
+    "sources": [
+        "style.scss",
+        "scss/_general.scss",
+        "scss/_typography.scss",
+        "scss/_month-block.scss",
+        "scss/_header.scss",
+        "scss/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
